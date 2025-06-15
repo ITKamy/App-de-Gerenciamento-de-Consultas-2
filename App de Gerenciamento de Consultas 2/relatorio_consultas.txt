@@ -1,0 +1,477 @@
+==========================================================
+Relatório Gerado em: 2025-06-14 22:27:48
+Tipo de Relatório: Relatório de Consultas Agendadas
+----------------------------------------------------------
+Suas consultas agendadas:
+
+Nenhuma consulta agendada encontrada.
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-14 22:28:22
+Tipo de Relatório: Relatório de Consultas Passadas com Arthur Ian Figueiredo
+----------------------------------------------------------
+Histórico com Dr(a). Arthur Ian Figueiredo:
+
+Data: 06/05/2025 09:00
+Data: 07/05/2025 08:00
+Data: 10/05/2025 11:30
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-14 22:28:32
+Tipo de Relatório: Relatório de Consultas Passadas com Arthur Ian Figueiredo
+----------------------------------------------------------
+Histórico com Dr(a). Arthur Ian Figueiredo:
+
+Data: 06/05/2025 09:00
+Data: 07/05/2025 08:00
+Data: 10/05/2025 11:30
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-14 22:28:34
+Tipo de Relatório: Relatório de Consultas Agendadas
+----------------------------------------------------------
+Suas consultas agendadas:
+
+Nenhuma consulta agendada encontrada.
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-14 22:28:39
+Tipo de Relatório: Relatório de Consultas Passadas com Arthur Ian Figueiredo
+----------------------------------------------------------
+Histórico com Dr(a). Arthur Ian Figueiredo:
+
+Data: 06/05/2025 09:00
+Data: 07/05/2025 08:00
+Data: 10/05/2025 11:30
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-14 22:50:02
+Tipo de Relatório: Relatório de Consultas Agendadas
+----------------------------------------------------------
+Suas consultas agendadas:
+
+Nenhuma consulta agendada encontrada.
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-14 22:50:29
+Tipo de Relatório: Relatório de Consultas Passadas com Bruna Kamilly do Santos
+----------------------------------------------------------
+Histórico com Dr(a). Bruna Kamilly do Santos:
+
+Data: 08/05/2025 11:30
+Data: 09/05/2025 09:00
+Data: 10/05/2025 13:00
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-14 22:51:33
+Tipo de Relatório: Lista de Pacientes
+----------------------------------------------------------
+Lista de Pacientes de Calebe Roberto Bernardes:
+
+Paciente Lavï¿½nia Jï¿½ssica Mendes, de CPF 796.559.613-03, com as seguintes consultas:
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 06/05/2025 às 07:30
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 07/05/2025 às 16:50
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 09/05/2025 às 13:15
+Paciente Noah Levi Cavalcanti, de CPF 253.096.942-69, com as seguintes consultas:
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 07/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 08/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 09/05/2025 às 16:10
+Paciente Maria Bï¿½rbara Lï¿½via da Rosa, de CPF 112.329.996-01, com as seguintes consultas:
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 07/05/2025 às 14:30
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 09/05/2025 às 10:20
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 10/05/2025 às 08:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-14 22:52:10
+Tipo de Relatório: Relatório de Todas as Consultas
+----------------------------------------------------------
+Todas as consultas do(a) Dr(a). Calebe Roberto Bernardes:
+
+Paciente (CPF): 796.559.613-03 | Data: 06/05/2025 07:30
+Paciente (CPF): 253.096.942-69 | Data: 07/05/2025 13:00
+Paciente (CPF): 112.329.996-01 | Data: 07/05/2025 14:30
+Paciente (CPF): 796.559.613-03 | Data: 07/05/2025 16:50
+Paciente (CPF): 253.096.942-69 | Data: 08/05/2025 13:00
+Paciente (CPF): 112.329.996-01 | Data: 09/05/2025 10:20
+Paciente (CPF): 253.096.942-69 | Data: 09/05/2025 16:10
+Paciente (CPF): 796.559.613-03 | Data: 09/05/2025 13:15
+Paciente (CPF): 112.329.996-01 | Data: 10/05/2025 08:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-14 22:52:28
+Tipo de Relatório: Relatório de Pacientes Inativos (2 meses)
+----------------------------------------------------------
+Pacientes inativos há pelo menos 2 meses:
+
+Nenhum paciente inativo encontrado neste período.
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-14 22:52:34
+Tipo de Relatório: Relatório de Pacientes Inativos (1 meses)
+----------------------------------------------------------
+Pacientes inativos há pelo menos 1 meses:
+
+Paciente Lavï¿½nia Jï¿½ssica Mendes, de CPF 796.559.613-03, com as seguintes consultas:
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 06/05/2025 às 07:30
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 07/05/2025 às 16:50
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 09/05/2025 às 13:15
+Paciente Noah Levi Cavalcanti, de CPF 253.096.942-69, com as seguintes consultas:
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 07/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 08/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 09/05/2025 às 16:10
+Paciente Maria Bï¿½rbara Lï¿½via da Rosa, de CPF 112.329.996-01, com as seguintes consultas:
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 07/05/2025 às 14:30
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 09/05/2025 às 10:20
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 10/05/2025 às 08:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 10:05:08
+Tipo de Relatório: Lista de Pacientes
+----------------------------------------------------------
+Lista de Pacientes de Calebe Roberto Bernardes:
+
+Paciente Lavï¿½nia Jï¿½ssica Mendes, de CPF 796.559.613-03, com as seguintes consultas:
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 06/05/2025 às 07:30
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 07/05/2025 às 16:50
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 09/05/2025 às 13:15
+Paciente Noah Levi Cavalcanti, de CPF 253.096.942-69, com as seguintes consultas:
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 07/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 08/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 09/05/2025 às 16:10
+Paciente Maria Bï¿½rbara Lï¿½via da Rosa, de CPF 112.329.996-01, com as seguintes consultas:
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 07/05/2025 às 14:30
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 09/05/2025 às 10:20
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 10/05/2025 às 08:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 10:05:21
+Tipo de Relatório: Relatório de Todas as Consultas
+----------------------------------------------------------
+Todas as consultas do(a) Dr(a). Calebe Roberto Bernardes:
+
+Paciente (CPF): 796.559.613-03 | Data: 06/05/2025 07:30
+Paciente (CPF): 253.096.942-69 | Data: 07/05/2025 13:00
+Paciente (CPF): 112.329.996-01 | Data: 07/05/2025 14:30
+Paciente (CPF): 796.559.613-03 | Data: 07/05/2025 16:50
+Paciente (CPF): 253.096.942-69 | Data: 08/05/2025 13:00
+Paciente (CPF): 112.329.996-01 | Data: 09/05/2025 10:20
+Paciente (CPF): 253.096.942-69 | Data: 09/05/2025 16:10
+Paciente (CPF): 796.559.613-03 | Data: 09/05/2025 13:15
+Paciente (CPF): 112.329.996-01 | Data: 10/05/2025 08:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 10:05:27
+Tipo de Relatório: Relatório de Pacientes Inativos (1 meses)
+----------------------------------------------------------
+Pacientes inativos há pelo menos 1 meses:
+
+Paciente Lavï¿½nia Jï¿½ssica Mendes, de CPF 796.559.613-03, com as seguintes consultas:
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 06/05/2025 às 07:30
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 07/05/2025 às 16:50
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 09/05/2025 às 13:15
+Paciente Noah Levi Cavalcanti, de CPF 253.096.942-69, com as seguintes consultas:
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 07/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 08/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 09/05/2025 às 16:10
+Paciente Maria Bï¿½rbara Lï¿½via da Rosa, de CPF 112.329.996-01, com as seguintes consultas:
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 07/05/2025 às 14:30
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 09/05/2025 às 10:20
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 10/05/2025 às 08:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 10:18:02
+Tipo de Relatório: Lista de Pacientes
+----------------------------------------------------------
+Lista de Pacientes de Calebe Roberto Bernardes:
+
+Paciente Lavï¿½nia Jï¿½ssica Mendes, de CPF 796.559.613-03, com as seguintes consultas:
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 06/05/2025 às 07:30
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 07/05/2025 às 16:50
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 09/05/2025 às 13:15
+Paciente Noah Levi Cavalcanti, de CPF 253.096.942-69, com as seguintes consultas:
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 07/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 08/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 09/05/2025 às 16:10
+Paciente Maria Bï¿½rbara Lï¿½via da Rosa, de CPF 112.329.996-01, com as seguintes consultas:
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 07/05/2025 às 14:30
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 09/05/2025 às 10:20
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 10/05/2025 às 08:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 10:18:06
+Tipo de Relatório: Relatório de Todas as Consultas
+----------------------------------------------------------
+Todas as consultas do(a) Dr(a). Calebe Roberto Bernardes:
+
+Paciente (CPF): 796.559.613-03 | Data: 06/05/2025 07:30
+Paciente (CPF): 253.096.942-69 | Data: 07/05/2025 13:00
+Paciente (CPF): 112.329.996-01 | Data: 07/05/2025 14:30
+Paciente (CPF): 796.559.613-03 | Data: 07/05/2025 16:50
+Paciente (CPF): 253.096.942-69 | Data: 08/05/2025 13:00
+Paciente (CPF): 112.329.996-01 | Data: 09/05/2025 10:20
+Paciente (CPF): 253.096.942-69 | Data: 09/05/2025 16:10
+Paciente (CPF): 796.559.613-03 | Data: 09/05/2025 13:15
+Paciente (CPF): 112.329.996-01 | Data: 10/05/2025 08:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 10:18:10
+Tipo de Relatório: Relatório de Pacientes Inativos (1 meses)
+----------------------------------------------------------
+Pacientes inativos há pelo menos 1 meses:
+
+Paciente Lavï¿½nia Jï¿½ssica Mendes, de CPF 796.559.613-03, com as seguintes consultas:
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 06/05/2025 às 07:30
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 07/05/2025 às 16:50
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 09/05/2025 às 13:15
+Paciente Noah Levi Cavalcanti, de CPF 253.096.942-69, com as seguintes consultas:
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 07/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 08/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 09/05/2025 às 16:10
+Paciente Maria Bï¿½rbara Lï¿½via da Rosa, de CPF 112.329.996-01, com as seguintes consultas:
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 07/05/2025 às 14:30
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 09/05/2025 às 10:20
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 10/05/2025 às 08:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 10:18:14
+Tipo de Relatório: Relatório de Pacientes Inativos (5 meses)
+----------------------------------------------------------
+Pacientes inativos há pelo menos 5 meses:
+
+Nenhum paciente inativo encontrado neste período.
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 10:18:40
+Tipo de Relatório: Relatório de Consultas Agendadas
+----------------------------------------------------------
+Suas consultas agendadas:
+
+Nenhuma consulta agendada encontrada.
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 10:18:45
+Tipo de Relatório: Relatório de Consultas Passadas com Raul Marcelo Campos
+----------------------------------------------------------
+Histórico com Dr(a). Raul Marcelo Campos:
+
+Data: 06/05/2025 10:50
+Data: 07/05/2025 10:40
+Data: 09/05/2025 14:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 14:30:57
+Tipo de Relatório: Lista de Pacientes
+----------------------------------------------------------
+Lista de Pacientes de Calebe Roberto Bernardes:
+
+Paciente Lavï¿½nia Jï¿½ssica Mendes, de CPF 796.559.613-03, com as seguintes consultas:
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 06/05/2025 às 07:30
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 07/05/2025 às 16:50
+-> Consulta do paciente de CPF 796.559.613-03 com o médico de código 915.239, no dia 09/05/2025 às 13:15
+Paciente Noah Levi Cavalcanti, de CPF 253.096.942-69, com as seguintes consultas:
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 07/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 08/05/2025 às 13:00
+-> Consulta do paciente de CPF 253.096.942-69 com o médico de código 915.239, no dia 09/05/2025 às 16:10
+Paciente Maria Bï¿½rbara Lï¿½via da Rosa, de CPF 112.329.996-01, com as seguintes consultas:
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 07/05/2025 às 14:30
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 09/05/2025 às 10:20
+-> Consulta do paciente de CPF 112.329.996-01 com o médico de código 915.239, no dia 10/05/2025 às 08:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 14:31:02
+Tipo de Relatório: Relatório de Todas as Consultas
+----------------------------------------------------------
+Todas as consultas do(a) Dr(a). Calebe Roberto Bernardes:
+
+Paciente (CPF): 796.559.613-03 | Data: 06/05/2025 07:30
+Paciente (CPF): 253.096.942-69 | Data: 07/05/2025 13:00
+Paciente (CPF): 112.329.996-01 | Data: 07/05/2025 14:30
+Paciente (CPF): 796.559.613-03 | Data: 07/05/2025 16:50
+Paciente (CPF): 253.096.942-69 | Data: 08/05/2025 13:00
+Paciente (CPF): 112.329.996-01 | Data: 09/05/2025 10:20
+Paciente (CPF): 253.096.942-69 | Data: 09/05/2025 16:10
+Paciente (CPF): 796.559.613-03 | Data: 09/05/2025 13:15
+Paciente (CPF): 112.329.996-01 | Data: 10/05/2025 08:50
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 17:11:32
+Tipo de Relatório: Relatório de Consultas Agendadas
+----------------------------------------------------------
+Suas consultas agendadas:
+
+Nenhuma consulta agendada encontrada.
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 17:18:46
+Tipo de Relatório: Relatório de Consultas Passadas com Lorenzo Diogo José Mendes
+----------------------------------------------------------
+Histórico com Dr(a). Lorenzo Diogo José Mendes:
+
+Data: 07/05/2025 13:50
+Data: 08/05/2025 13:15
+Data: 10/05/2025 13:15
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 17:18:50
+Tipo de Relatório: Relatório de Consultas Passadas com Lorenzo Diogo José Mendes
+----------------------------------------------------------
+Histórico com Dr(a). Lorenzo Diogo José Mendes:
+
+Data: 07/05/2025 13:50
+Data: 08/05/2025 13:15
+Data: 10/05/2025 13:15
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 17:23:12
+Tipo de Relatório: Relatório de Consultas Passadas com Lorenzo Diogo José Mendes
+----------------------------------------------------------
+Histórico com Dr(a). Lorenzo Diogo José Mendes:
+
+Data: 07/05/2025 13:50
+Data: 08/05/2025 13:15
+Data: 10/05/2025 13:15
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 17:23:24
+Tipo de Relatório: Relatório de Consultas Agendadas
+----------------------------------------------------------
+Suas consultas agendadas:
+
+Nenhuma consulta agendada encontrada.
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 17:26:54
+Tipo de Relatório: Relatório de Consultas Agendadas
+----------------------------------------------------------
+Suas consultas agendadas:
+
+Nenhuma consulta agendada encontrada.
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 17:27:01
+Tipo de Relatório: Relatório de Consultas Passadas com Lorenzo Diogo José Mendes
+----------------------------------------------------------
+Histórico com Dr(a). Lorenzo Diogo José Mendes:
+
+Data: 07/05/2025 13:50
+Data: 08/05/2025 13:15
+Data: 10/05/2025 13:15
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 17:27:06
+Tipo de Relatório: Relatório de Consultas Agendadas
+----------------------------------------------------------
+Suas consultas agendadas:
+
+Nenhuma consulta agendada encontrada.
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 17:27:34
+Tipo de Relatório: Lista de Pacientes
+----------------------------------------------------------
+Lista de Pacientes de Bruna Kamilly do Santos:
+
+Paciente Márcia Sarah Barbosa, de CPF 714.228.852-32, com as seguintes consultas:
+-> Consulta do paciente de CPF 714.228.852-32 com o médico de código 190.866, no dia 08/05/2024 às 09:00
+-> Consulta do paciente de CPF 714.228.852-32 com o médico de código 190.866, no dia 09/06/2024 às 11:10
+-> Consulta do paciente de CPF 714.228.852-32 com o médico de código 190.866, no dia 10/10/2024 às 08:15
+Paciente José Isaac Campos, de CPF 101.038.382-52, com as seguintes consultas:
+-> Consulta do paciente de CPF 101.038.382-52 com o médico de código 190.866, no dia 07/05/2025 às 14:35
+-> Consulta do paciente de CPF 101.038.382-52 com o médico de código 190.866, no dia 08/05/2025 às 14:30
+-> Consulta do paciente de CPF 101.038.382-52 com o médico de código 190.866, no dia 10/05/2025 às 15:40
+Paciente Felipe Eduardo Bernardo Santos, de CPF 753.398.935-02, com as seguintes consultas:
+-> Consulta do paciente de CPF 753.398.935-02 com o médico de código 190.866, no dia 08/05/2025 às 11:30
+-> Consulta do paciente de CPF 753.398.935-02 com o médico de código 190.866, no dia 09/05/2025 às 09:00
+-> Consulta do paciente de CPF 753.398.935-02 com o médico de código 190.866, no dia 10/05/2025 às 13:00
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 17:27:44
+Tipo de Relatório: Relatório de Todas as Consultas
+----------------------------------------------------------
+Todas as consultas do(a) Dr(a). Bruna Kamilly do Santos:
+
+Paciente (CPF): 714.228.852-32 | Data: 08/05/2024 09:00
+Paciente (CPF): 714.228.852-32 | Data: 09/06/2024 11:10
+Paciente (CPF): 714.228.852-32 | Data: 10/10/2024 08:15
+Paciente (CPF): 101.038.382-52 | Data: 07/05/2025 14:35
+Paciente (CPF): 753.398.935-02 | Data: 08/05/2025 11:30
+Paciente (CPF): 101.038.382-52 | Data: 08/05/2025 14:30
+Paciente (CPF): 753.398.935-02 | Data: 09/05/2025 09:00
+Paciente (CPF): 101.038.382-52 | Data: 10/05/2025 15:40
+Paciente (CPF): 753.398.935-02 | Data: 10/05/2025 13:00
+
+==========================================================
+
+==========================================================
+Relatório Gerado em: 2025-06-15 17:27:56
+Tipo de Relatório: Relatório de Pacientes Inativos (1 meses)
+----------------------------------------------------------
+Pacientes inativos há pelo menos 1 meses:
+
+Paciente Márcia Sarah Barbosa, de CPF 714.228.852-32, com as seguintes consultas:
+-> Consulta do paciente de CPF 714.228.852-32 com o médico de código 190.866, no dia 08/05/2024 às 09:00
+-> Consulta do paciente de CPF 714.228.852-32 com o médico de código 190.866, no dia 09/06/2024 às 11:10
+-> Consulta do paciente de CPF 714.228.852-32 com o médico de código 190.866, no dia 10/10/2024 às 08:15
+Paciente José Isaac Campos, de CPF 101.038.382-52, com as seguintes consultas:
+-> Consulta do paciente de CPF 101.038.382-52 com o médico de código 190.866, no dia 07/05/2025 às 14:35
+-> Consulta do paciente de CPF 101.038.382-52 com o médico de código 190.866, no dia 08/05/2025 às 14:30
+-> Consulta do paciente de CPF 101.038.382-52 com o médico de código 190.866, no dia 10/05/2025 às 15:40
+Paciente Felipe Eduardo Bernardo Santos, de CPF 753.398.935-02, com as seguintes consultas:
+-> Consulta do paciente de CPF 753.398.935-02 com o médico de código 190.866, no dia 08/05/2025 às 11:30
+-> Consulta do paciente de CPF 753.398.935-02 com o médico de código 190.866, no dia 09/05/2025 às 09:00
+-> Consulta do paciente de CPF 753.398.935-02 com o médico de código 190.866, no dia 10/05/2025 às 13:00
+
+==========================================================
+
