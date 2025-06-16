@@ -44,8 +44,8 @@ public class TelaPaciente {
         janela.add(btnPassadas);
 
         //Ações dos botões----------------------
-        btnAgendadas.addActionListener(e -> verConsultasAgendadas());
-        btnPassadas.addActionListener(e -> verConsultasPassadas());
+        btnAgendadas.addActionListener(_ -> verConsultasAgendadas());
+        btnPassadas.addActionListener(_ -> verConsultasPassadas());
 
         //janela visível
         janela.setVisible(true);

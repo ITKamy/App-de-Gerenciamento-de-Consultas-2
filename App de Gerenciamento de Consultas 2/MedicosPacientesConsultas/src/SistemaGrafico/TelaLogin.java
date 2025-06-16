@@ -81,7 +81,7 @@ public class TelaLogin {
         janela.add(loginButton);
 
         //Ação que será executada quando o botão for clicado
-        loginButton.addActionListener(e -> realizarLogin());
+        loginButton.addActionListener(_ -> realizarLogin());
 
         // janela visível
         janela.setVisible(true);
