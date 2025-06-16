@@ -21,35 +21,40 @@ public class Main {
         }
 
         //CARREGAR DADOS BINÁRIOS -------------------------
-        //declara listas
-        ArrayList<Medico> todosOsMedicos;
-        ArrayList<Paciente> todosOsPacientes;
-        ArrayList<Consulta> todasAsConsultas;
-
-        //carrega os dados
-        try (FileInputStream fileStream = new FileInputStream("dados_clinica.bin");
-             ObjectInputStream objectStream = new ObjectInputStream(fileStream)) {
-            //lê
-            todosOsMedicos = (ArrayList<Medico>) objectStream.readObject();
-            todosOsPacientes = (ArrayList<Paciente>) objectStream.readObject();
-            todasAsConsultas = (ArrayList<Consulta>) objectStream.readObject();
-
-            System.out.println("Dados carregados com sucesso do arquivo 'dados_clinica.bin'!");
-
-        } catch (Exception e) { //erro:
-            JOptionPane.showMessageDialog(null,
-                    "Erro ao carregar dados do arquivo 'dados_clinica.bin'.\n" +
-                            "Execute o programa P1 (DadosBinarios.java) primeiro para gerar o arquivo.",
-                    "Erro de Carregamento", JOptionPane.ERROR_MESSAGE);
-            e.printStackTrace();
-            return; // Termina a execução se não conseguir carregar os dados
+        //declara listas e carrega os dados
+        ArrayList<Medico> todosOsMedicos = (ArrayList<Medico>) lerArquivoBinario("dados_medicos.bin");
+        ArrayList<Paciente> todosOsPacientes = (ArrayList<Paciente>) lerArquivoBinario("dados_pacientes.bin");
+        ArrayList<Consulta> todasAsConsultas = (ArrayList<Consulta>) lerArquivoBinario("dados_consultas.bin");
+        
+        // Encerra o programa se houver encontrado algum problema
+        if (todosOsMedicos == null || todosOsPacientes == null || todasAsConsultas == null) {
+            return;
+        }
+        
+        for (Consulta consulta : todasAsConsultas) {
+            System.out.println(consulta.toString());
         }
 
         // Inicia a interface gráfica de Login-------------
-        //coloca final para n mudar
-        ArrayList<Medico> finalTodosOsMedicos = todosOsMedicos;
-        ArrayList<Paciente> finalTodosOsPacientes = todosOsPacientes;
-        ArrayList<Consulta> finalTodasAsConsultas = todasAsConsultas;
         //tela login
-        SwingUtilities.invokeLater(() -> new TelaLogin(finalTodosOsMedicos, finalTodosOsPacientes, finalTodasAsConsultas)); }
+        SwingUtilities.invokeLater(() -> new TelaLogin(todosOsMedicos, todosOsPacientes, todasAsConsultas));
+    }
+
+    private static Object lerArquivoBinario(String nomeDoArquivo) {
+        try (
+            FileInputStream fileStream = new FileInputStream(nomeDoArquivo);
+            ObjectInputStream objectStream = new ObjectInputStream(fileStream)
+        ) {
+            Object resultado = objectStream.readObject();
+            System.out.println(String.format("Dados carregados com sucesso do arquivo '%s'!", nomeDoArquivo));
+            return resultado;
+        } catch (Exception e) {
+            JOptionPane.showMessageDialog(null,
+                    "Erro ao carregar dados do arquivo '"+nomeDoArquivo+"'.\n" +
+                            "Execute o programa P1 (DadosBinarios.java) primeiro para gerar o arquivo.",
+                    "Erro de Carregamento", JOptionPane.ERROR_MESSAGE);
+            e.printStackTrace();
+            return null;
+        }
+    }
 }

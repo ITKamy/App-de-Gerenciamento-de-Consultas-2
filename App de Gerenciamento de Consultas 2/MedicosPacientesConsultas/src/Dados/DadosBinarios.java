@@ -56,18 +56,22 @@ public class DadosBinarios {
         System.out.println("Objetos conectados em memória.");
 
 
-        // Salva as listas de objetos em um único arquivo binário
-        try (FileOutputStream fileStream = new FileOutputStream("dados_clinica.bin");
-             ObjectOutputStream objectStream = new ObjectOutputStream(fileStream)) {
+        // Salva as listas de objetos em diferentes arquivos binários
+        salvarArquivoBinario(todasAsConsultas, "dados_consultas");
+        salvarArquivoBinario(todosOsMedicos, "dados_medicos");
+        salvarArquivoBinario(todosOsPacientes, "dados_pacientes");
+    }
 
-            objectStream.writeObject(todosOsMedicos);
-            objectStream.writeObject(todosOsPacientes);
-            objectStream.writeObject(todasAsConsultas);
-
-            System.out.println("Arquivo 'dados_clinica.bin' criado com sucesso!");
-
+    private static void salvarArquivoBinario(Object obj, String nomeDoArquivo) {
+        String nomeCompleto = nomeDoArquivo + ".bin";
+        try (
+            FileOutputStream fileStream = new FileOutputStream(nomeCompleto);
+            ObjectOutputStream objectStream = new ObjectOutputStream(fileStream);
+        ) {
+            objectStream.writeObject(obj);
+            System.out.println(String.format("Arquivo '%s' criado com sucesso!", nomeCompleto));
         } catch (Exception e) {
-            System.err.println("Erro ao salvar os dados em formato binário.");
+            System.err.println(String.format("Erro ao salvar os dados de '%s' em formato binário.", nomeCompleto));
             e.printStackTrace();
         }
     }
