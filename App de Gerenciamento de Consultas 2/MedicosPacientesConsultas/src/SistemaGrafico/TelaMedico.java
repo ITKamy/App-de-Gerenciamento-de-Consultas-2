@@ -45,9 +45,9 @@ public class TelaMedico {
 
         //Ações dos botões---------------------------
         //executar método quando cada botão for clicado:
-        btnListaPacientes.addActionListener(_ -> listarPacientes());
-        btnConsultas.addActionListener(_ -> verConsultas());
-        btnPacientesInativos.addActionListener(_ -> verPacientesInativos());
+        btnListaPacientes.addActionListener(e -> listarPacientes());
+        btnConsultas.addActionListener(e -> verConsultas());
+        btnPacientesInativos.addActionListener(e -> verPacientesInativos());
 
         //janela visível
         janela.setVisible(true);
