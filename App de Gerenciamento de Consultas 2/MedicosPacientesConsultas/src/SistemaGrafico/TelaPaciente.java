@@ -70,6 +70,7 @@ public class TelaPaciente {
     private void verConsultasPassadas() {
         // Pega a lista de médicos com quem o paciente já consultou
         ArrayList<Medico> medicosDoPaciente = Medico.filtrarPorPaciente(paciente, todosOsMedicos);
+
         if (medicosDoPaciente.isEmpty()) {
             JOptionPane.showMessageDialog(janela, "Você não tem histórico com nenhum médico.", "Aviso", JOptionPane.INFORMATION_MESSAGE);
             return;

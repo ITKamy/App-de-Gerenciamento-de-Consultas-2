@@ -25,14 +25,16 @@ public class Main {
         ArrayList<Medico> todosOsMedicos = (ArrayList<Medico>) lerArquivoBinario("dados_medicos.bin");
         ArrayList<Paciente> todosOsPacientes = (ArrayList<Paciente>) lerArquivoBinario("dados_pacientes.bin");
         ArrayList<Consulta> todasAsConsultas = (ArrayList<Consulta>) lerArquivoBinario("dados_consultas.bin");
-        
+
+        // Conecta as relações entre os objetos
+        for(Consulta consulta : todasAsConsultas) {
+            consulta.conectar(todosOsPacientes, todosOsMedicos);
+        }
+        System.out.println("Objetos conectados em memória.");
+
         // Encerra o programa se houver encontrado algum problema
         if (todosOsMedicos == null || todosOsPacientes == null || todasAsConsultas == null) {
             return;
-        }
-        
-        for (Consulta consulta : todasAsConsultas) {
-            System.out.println(consulta.toString());
         }
 
         // Inicia a interface gráfica de Login-------------

@@ -48,14 +48,6 @@ public class DadosBinarios {
             todasAsConsultas.add(new Consulta(linha));
         }
 
-        // Conecta as relações entre os objetos
-        for(Consulta consulta : todasAsConsultas) {
-            consulta.conectar(todosOsPacientes, todosOsMedicos);
-        }
-
-        System.out.println("Objetos conectados em memória.");
-
-
         // Salva as listas de objetos em diferentes arquivos binários
         salvarArquivoBinario(todasAsConsultas, "dados_consultas");
         salvarArquivoBinario(todosOsMedicos, "dados_medicos");
